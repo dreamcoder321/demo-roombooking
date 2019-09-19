@@ -46,5 +46,5 @@ A few api endpoints:
 
 6. A simple mock testing is provided.
 
-7. This a simple demo without any business related concerns since that require open-ended discussion. 
+7. This a simple demo without any business related concerns since that warrant open-ended discussion. 
 
