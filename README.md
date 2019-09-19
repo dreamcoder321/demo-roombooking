@@ -1,4 +1,5 @@
 # how to run room booking rest apis 
+# tested on windows 10 and ubuntu 18
 
 1. install jdk 8, mvn, docker, docker-compose
 
