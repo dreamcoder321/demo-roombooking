@@ -42,6 +42,10 @@ A few api endpoints:
   http://localhost:8080/api/v1/booking    [method post]
   http://localhost:8080/api/v1/bookings   [method get]
 
+How to use endpoints:
+
+curl -d "param1=value1&param2=value2" -X POST http://localhost:3000/blahblah
+curl -d "param1=value1&param2=value2" -H "Content-Type: application/x-www-form-urlencoded" -X POST http://localhost:3000/blahblah
 
 
 6. A simple mock testing is provided.
